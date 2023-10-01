@@ -1,0 +1,49 @@
+body {
+    background-color: aqua;
+}
+
+.heading{
+    color: darkblue;
+    font-family: 'Pixelify Sans', cursive;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+.img {
+    width: 40%;
+    margin-right: 50rem;
+    padding-bottom: 10px;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin-left: 20rem;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.footer {
+    color: blueviolet;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
